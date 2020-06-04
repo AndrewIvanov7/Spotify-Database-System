@@ -1,1 +1,2 @@
 # Spotify-Database-System
+For this project, my group created a Spotify database in Microsoft Access. We created 6 entity tables where all information will be stored. These tables are: Type of Plan, Account, Customer, Payment Information, Playlist, Song. We created an entity-relationship model to easily see the relationships between our tables. Afterwards, we created the entire database in Microsoft Access using SQL and VBA.
